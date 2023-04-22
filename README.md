@@ -23,12 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot (29)](https://user-images.githubusercontent.com/54478287/233785368-71029726-f28d-4ac6-bffb-d9e85811bbc3.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/54478287/233785377-da677f51-2b28-4bd4-b4ae-c5301a905804.png)
+
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Link](https://www.frontendmentor.io/solutions/news-homepage-iclPYPj7Xx)
+-   Live Site URL: [Link](https://itsarshadahmad.github.io/news-homepage/)
 
 ## My process
 
